@@ -139,9 +139,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **5336** |
+| 📝 Toplam İstem | **5333** |
 | ⭐ Öne Çıkan | **6** |
-| 🔄 Son Güncelleme | **11 Mayıs 2026 Pazartesi 14:28:01 UTC** |
+| 🔄 Son Güncelleme | **12 Mayıs 2026 Salı 01:59:04 UTC** |
 
 </div>
 
@@ -5277,7 +5277,7 @@ Konsept sanat veya avatar tasarımı için bir sebze perisi avatarının ön, ya
 
 <div align="center">
 
-### 🎯 5216 burada gösterilmeyen daha fazla istem
+### 🎯 5213 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5340,6 +5340,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-05-11T14:28:01.695Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-05-12T01:59:04.579Z</sub>
 
 </div>

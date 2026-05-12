@@ -139,9 +139,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **5336** |
+| 📝 Total Prompts | **5333** |
 | ⭐ Featured | **6** |
-| 🔄 Last Updated | **Monday, May 11, 2026 at 2:26:51 PM UTC** |
+| 🔄 Last Updated | **Tuesday, May 12, 2026 at 1:58:03 AM UTC** |
 
 </div>
 
@@ -5277,7 +5277,7 @@ Generates a wide anime VTuber character design sheet with front, side, and back 
 
 <div align="center">
 
-### 🎯 5216 more prompts not shown here
+### 🎯 5213 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5340,6 +5340,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-11T14:26:51.930Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-12T01:58:03.104Z</sub>
 
 </div>

@@ -139,9 +139,9 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **5336** |
+| 📝 Total de prompts | **5333** |
 | ⭐ Destaque | **6** |
-| 🔄 Última atualização | **segunda-feira, 11 de maio de 2026 às 14:27:52 UTC** |
+| 🔄 Última atualização | **terça-feira, 12 de maio de 2026 às 01:58:56 UTC** |
 
 </div>
 
@@ -5277,7 +5277,7 @@ Gera uma folha de design de personagem VTuber em estilo anime com vistas frontal
 
 <div align="center">
 
-### 🎯 5216 mais prompts não mostrados aqui
+### 🎯 5213 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5340,6 +5340,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-05-11T14:27:52.815Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-05-12T01:58:56.207Z</sub>
 
 </div>

@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **5336** |
+| 📝 Total de prompts | **5333** |
 | ⭐ Destacado | **6** |
-| 🔄 Última actualización | **lunes, 11 de mayo de 2026, 14:27:29 UTC** |
+| 🔄 Última actualización | **martes, 12 de mayo de 2026, 1:58:35 UTC** |
 
 </div>
 
@@ -5277,7 +5277,7 @@ Genera una hoja de diseño de personaje VTuber estilo anime con vistas frontal, 
 
 <div align="center">
 
-### 🎯 5216 prompts más no mostrados aquí
+### 🎯 5213 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5340,6 +5340,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-11T14:27:29.294Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-12T01:58:35.807Z</sub>
 
 </div>

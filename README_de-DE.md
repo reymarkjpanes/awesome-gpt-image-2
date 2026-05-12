@@ -139,9 +139,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **5336** |
+| 📝 Gesamtanzahl Prompts | **5333** |
 | ⭐ Ausgewählt | **6** |
-| 🔄 Zuletzt aktualisiert | **Montag, 11. Mai 2026 um 14:27:39 UTC** |
+| 🔄 Zuletzt aktualisiert | **Dienstag, 12. Mai 2026 um 01:58:43 UTC** |
 
 </div>
 
@@ -5277,7 +5277,7 @@ Erstellt ein breites Anime-VTuber-Charakterdesign-Blatt mit Vorder-, Seiten- und
 
 <div align="center">
 
-### 🎯 5216 weitere Prompts hier nicht angezeigt
+### 🎯 5213 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5340,6 +5340,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-05-11T14:27:39.432Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-05-12T01:58:43.958Z</sub>
 
 </div>

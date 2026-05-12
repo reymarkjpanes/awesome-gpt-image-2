@@ -139,9 +139,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **5336** |
+| 📝 कुल प्रॉम्पट्स | **5333** |
 | ⭐ विशेष | **6** |
-| 🔄 अंतिम अपडेट | **सोमवार, 11 मई 2026 को 2:27:24 pm UTC बजे** |
+| 🔄 अंतिम अपडेट | **मंगलवार, 12 मई 2026 को 1:58:31 am UTC बजे** |
 
 </div>
 
@@ -5277,7 +5277,7 @@ MPEG-4 FAP कंट्रोल लुकअप के रूप में REFE
 
 <div align="center">
 
-### 🎯 5216 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 5213 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5340,6 +5340,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-05-11T14:27:24.781Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-05-12T01:58:31.769Z</sub>
 
 </div>
