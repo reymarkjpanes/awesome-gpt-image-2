@@ -141,7 +141,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **10760** |
 | ⭐ Featured | **6** |
-| 🔄 Last Updated | **Sunday, June 21, 2026 at 1:45:31 PM UTC** |
+| 🔄 Last Updated | **Monday, June 22, 2026 at 2:40:24 AM UTC** |
 
 </div>
 
@@ -5561,6 +5561,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-21T13:45:31.641Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-22T02:40:24.354Z</sub>
 
 </div>
